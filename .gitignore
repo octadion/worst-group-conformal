@@ -1,0 +1,17 @@
+# Datasets and anything derived from them
+data/
+caches/
+checkpoints/
+
+# Generated outputs; records/ is tracked on purpose
+figures/
+tables/
+RESULTS.md
+REPRESENTATION.md
+RECOVERABILITY.md
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store

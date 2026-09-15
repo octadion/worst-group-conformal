@@ -1,0 +1,15 @@
+# Analysis, tables and figures: everything that runs from records/.
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.0,<2.0
+pandas>=1.4
+matplotlib>=3.5
+
+# Feature extraction and fine-tuning only. Install these when running the stages that read images.
+# torch>=2.0
+# torchvision>=0.15
+# open_clip_torch>=2.20
+# psutil>=5.9
+
+# Tests.
+# pytest>=7.0
