@@ -22,8 +22,7 @@ keywords:
   - spurious correlation
   - worst-group coverage
   - calibration
-# Add the archived DOI here once a release is minted:
-# doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.22762874
 preferred-citation:
   type: unpublished
   title: "Calibration Beats Robust Training for Worst-Group Coverage"

@@ -1,5 +1,7 @@
 # worst-group-conformal
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22762874.svg)](https://doi.org/10.5281/zenodo.22762874)
+
 Worst-group conformal coverage depends far more on how scores are turned into prediction sets
 than on how the model was trained. Under one threshold shared by all groups, an ordinary model
 covers 89% of test images but only 51% of those in its worst group; giving each group its own
