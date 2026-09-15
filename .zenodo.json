@@ -1,0 +1,30 @@
+{
+  "title": "worst-group-conformal: code and records for worst-group conformal coverage under spurious correlation",
+  "description": "<p>Code and released records for a study of worst-group conformal coverage under spurious correlation, comparing group-conditional calibration against group-robust training. Covers two benchmarks (Waterbirds, CelebA), four backbones, five last-layer training methods, three conformity scores, three calibration policies and a correlation-strength sweep, for about 116,000 conformal evaluations.</p><p>The repository ships the records behind every table and figure, so the tables, figures and intervals reported in the accompanying manuscript can be regenerated in minutes without a GPU.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Octadion, One",
+      "orcid": "0009-0008-6823-2816",
+      "affiliation": "Universitas Brawijaya"
+    },
+    {
+      "name": "Yudistira, Novanto",
+      "affiliation": "Universitas Brawijaya"
+    },
+    {
+      "name": "Nakashima, Yuta",
+      "affiliation": "Osaka University"
+    }
+  ],
+  "keywords": [
+    "conformal prediction",
+    "group robustness",
+    "spurious correlation",
+    "worst-group coverage",
+    "group-conditional calibration",
+    "uncertainty quantification"
+  ]
+}
