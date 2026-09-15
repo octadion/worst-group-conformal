@@ -1,6 +1,6 @@
 # worst-group-conformal
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22762874.svg)](https://doi.org/10.5281/zenodo.22762874)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22762874-1682D4.svg)](https://doi.org/10.5281/zenodo.22762874)
 
 Worst-group conformal coverage depends far more on how scores are turned into prediction sets
 than on how the model was trained. Under one threshold shared by all groups, an ordinary model
